@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CustomerServiceApplication {
 
-	public static void main(String[] args) {  //Starting main code
+	public static void main(String[] args) {  //Starting main code - Reviewed
 		SpringApplication.run(CustomerServiceApplication.class, args);
 	}
 
