@@ -1,5 +1,5 @@
 /*
-    Just a simple js file for a quick demo purposes.
+    Just a simple js file for a quick demo purposes. Review file.
 */
 const recommendedNav = document.getElementById('recommended-nav');
 const moviesList = document.querySelector('#movies-list tbody');
