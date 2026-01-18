@@ -1,1 +1,2 @@
-my script for deployment
+my script for deployment  
+changes 1
